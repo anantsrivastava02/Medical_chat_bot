@@ -1,8 +1,7 @@
-ctransformer==0.2.5 #quantize model load
-sentence-transformers==2.2.2
+blosc2
+Cython
+sentence-transformers
 pinecone-client
 langchain
 flask
-
-
--e
+ctransformers
