@@ -11,6 +11,7 @@ transformers
 pypdf
 pinecone-client[grpc]
 python-dotenv
+-e.
 
 
 # To install without gRPC run:
