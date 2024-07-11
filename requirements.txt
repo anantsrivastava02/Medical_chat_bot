@@ -3,5 +3,15 @@ Cython
 sentence-transformers
 pinecone-client
 langchain
-flask
-ctransformers
+bitsandbytes
+flask 
+langchain-community
+ctransformers==0.2.5
+transformers
+pypdf
+pinecone-client[grpc]
+python-dotenv
+
+
+# To install without gRPC run:
+# pip3 install pinecone-client
